@@ -1,0 +1,23 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="bt_notif_pink"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:name="path_1"
+        android:pathData="M 9.32 12.62 L 14.67 12.62 L 14.67 13.6 L 9.32 13.6 Z"
+        android:fillColor="#f93a7f"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_2"
+        android:pathData="M 9.64 11.52 L 9.64 13.13 L 14.36 13.13 L 14.36 11.52 C 14.36 10.894 14.111 10.294 13.669 9.851 C 13.226 9.409 12.626 9.16 12 9.16 C 11.374 9.16 10.774 9.409 10.331 9.851 C 9.889 10.294 9.64 10.894 9.64 11.52 Z"
+        android:fillColor="#f93a7f"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_3"
+        android:pathData="M 11.21 9.45 L 11.21 10.14 L 12.79 10.14 L 12.79 9.45 C 12.792 9.31 12.756 9.172 12.688 9.051 C 12.619 8.929 12.519 8.828 12.398 8.757 C 12.277 8.687 12.14 8.65 12 8.65 C 11.86 8.65 11.723 8.687 11.602 8.757 C 11.481 8.828 11.381 8.929 11.312 9.051 C 11.244 9.172 11.208 9.31 11.21 9.45 Z M 13.16 14.19 L 10.84 14.19 C 10.84 14.498 10.962 14.793 11.18 15.01 C 11.397 15.228 11.692 15.35 12 15.35 C 12.308 15.35 12.603 15.228 12.82 15.01 C 13.038 14.793 13.16 14.498 13.16 14.19 Z"
+        android:fillColor="#f93a7f"
+        android:strokeWidth="1"/>
+</vector>

@@ -1,0 +1,23 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="bt_notif_white"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:name="path_1"
+        android:pathData="M 8.31 12.62 L 13.66 12.62 L 13.66 13.6 L 8.31 13.6 Z"
+        android:fillColor="#ffffff"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_2"
+        android:pathData="M 8.63 11.52 L 8.63 13.13 L 13.35 13.13 L 13.35 11.52 C 13.35 10.896 13.103 10.297 12.662 9.855 C 12.222 9.413 11.624 9.163 11 9.16 C 10.585 9.158 10.176 9.266 9.816 9.473 C 9.455 9.68 9.156 9.978 8.948 10.337 C 8.74 10.697 8.63 11.105 8.63 11.52 Z"
+        android:fillColor="#ffffff"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_3"
+        android:pathData="M 10.19 9.45 L 10.19 10.14 L 11.78 10.14 L 11.78 9.45 C 11.782 9.31 11.746 9.172 11.678 9.051 C 11.609 8.929 11.509 8.828 11.388 8.757 C 11.267 8.687 11.13 8.65 10.99 8.65 C 10.778 8.65 10.574 8.734 10.424 8.884 C 10.274 9.034 10.19 9.238 10.19 9.45 Z M 12.14 14.19 L 9.83 14.19 C 9.83 14.395 9.884 14.596 9.987 14.773 C 10.09 14.95 10.238 15.097 10.416 15.198 C 10.594 15.299 10.795 15.352 11 15.35 C 11.202 15.348 11.4 15.293 11.574 15.191 C 11.748 15.088 11.892 14.942 11.991 14.766 C 12.09 14.591 12.142 14.392 12.14 14.19 Z"
+        android:fillColor="#ffffff"
+        android:strokeWidth="1"/>
+</vector>

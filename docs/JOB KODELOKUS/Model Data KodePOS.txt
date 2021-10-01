@@ -1,0 +1,140 @@
+===========================================================
+RENCANA CLASS
+===========================================================
+
+dataclass
+-----------------------------------------------------------
+Pengguna.kt
+Usaha.kt
+Terminal.kt
+Barang.kt
+Transaksi.kt
+Diskon.kt
+Promo.kt
+Voucher.kt
+-----------------------------------------------------------
+
+activities
+-----------------------------------------------------------
+HomeAdminActivity.kt
+HomePosActivity.kt
+PengaturanActivity.kt
+-----------------------------------------------------------
+
+fragments
+-----------------------------------------------------------
+TerminalFragment.kt
+TerminalHariIniFragment.kt
+TerminalDitutupFragment.kt
+DiskonFragment.kt
+DiskonBerjalanFragment.kt
+DiskonRiwayatFragment.kt
+PromoFragment.kt
+PromoBerjalanFragment.kt
+PromoRiwayatFragment.kt
+VoucherFragment.kt
+VoucherBerjalanFragment.kt
+VoucherRiwayatFragment.kt
+PosFragment.kt
+BayarFragment.kt
+StrukFragment.kt
+AktivitasFragment.kt
+AktivitasHariIniFragment.kt
+AktivitasRiwayatFragment.kt
+-----------------------------------------------------------
+
+dialogs
+-----------------------------------------------------------
+TerminalDialog.kt
+DiskonDialog.kt
+PromoDialog.kt
+VoucherDialog.kt
+ScannerDialog.kt
+BarcodeDialog.kt
+ItemDialog.kt
+HargaDialog.kt
+-----------------------------------------------------------
+
+update usaha nama_usaha = '###' where id_usaha = ###;
+
+===========================================================
+
+Tabel Pengguna
+id_pengguna
+password
+status
+nama_depan
+nama_belakang
+no_telepon
+email
+
+Tabel Usaha
+id_usaha
+nama_usaha
+kategori_usaha
+tipe_usaha
+alamat
+kota
+provinsi
+kode_pos
+id_pengguna
+
+Tabel Terminal
+id_terminal
+tanggal
+modal_awal
+transaksi
+modal_akhir
+id_usaha
+
+Tabel Barang
+id_barang
+nama_barang
+tipe_barang
+harga_beli
+harga_jual
+harga_diskon
+harga_promo
+barcode
+
+Tabel Transaksi
+id_transaksi
+tgl_transaksi
+id_barang
+id_terminal
+
+Tabel Diskon
+id_diskon
+nama_diskon
+jumlah_diskon
+mulai_diskon
+akhir_diskon
+id_barang
+
+Tabel Promo
+id_promo
+nama_promo
+mulai_promo
+akhir_promo
+id_barang
+
+Tabel Voucher
+id_voucher
+nama_voucher
+mulai_voucher
+akhir_voucher
+jenis_voucher
+id_barang
+id_promo
+id_diskon
+
+===========================================================
+
+(1) Activity Open Terminal
+(2) Activity Diskon
+(3) Activity Promo
+(4) Activity Voucher
+(5) Activity POS
+(6) Activity POSHistory
+
+===========================================================

@@ -1,0 +1,18 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="bt_profile_pink"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:name="path_4"
+        android:pathData="M 12 8.75 C 11.52 8.75 11.059 8.941 10.72 9.28 C 10.381 9.619 10.19 10.08 10.19 10.56 C 10.19 11.04 10.381 11.501 10.72 11.84 C 11.059 12.179 11.52 12.37 12 12.37 C 12.48 12.37 12.941 12.179 13.28 11.84 C 13.619 11.501 13.81 11.04 13.81 10.56 C 13.81 10.08 13.619 9.619 13.28 9.28 C 12.941 8.941 12.48 8.75 12 8.75 Z"
+        android:fillColor="#f93a7f"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_5"
+        android:pathData="M 13.75 12.2 C 13.448 12.516 13.066 12.745 12.644 12.861 C 12.223 12.978 11.777 12.978 11.356 12.861 C 10.934 12.745 10.552 12.516 10.25 12.2 C 10.013 12.435 9.827 12.715 9.703 13.025 C 9.579 13.335 9.52 13.667 9.53 14 L 9.53 15.3 L 14.47 15.3 L 14.47 14 C 14.48 13.667 14.421 13.335 14.297 13.025 C 14.173 12.715 13.987 12.435 13.75 12.2 Z"
+        android:fillColor="#f93a7f"
+        android:strokeWidth="1"/>
+</vector>

@@ -1,0 +1,31 @@
+LoginActivity :
+edittext_username
+edittext_password
+button_masuk
+button_daftar
+textview_lupa_password
+textview_bantuan
+
+RegisterUsahaActivity :
+edittext_usaha_nama
+edittext_usaha_kategori
+edittext_usaha_tipe
+edittext_usaha_alamat
+edittext_usaha_kota
+edittext_usaha_provinsi
+edittext_usaha_kodepos
+edittext_pengguna_nama_depan
+edittext_pengguna_nama_belakang
+edittext_pengguna_no_telepon
+edittext_pengguna_email
+edittext_pengguna_password
+button_daftar
+button_masuk
+
+RegisterKasirctivity :
+edittext_username
+edittext_kodeusaha
+edittext_password
+edittext_repassword
+button_daftar
+button_masuk

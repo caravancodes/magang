@@ -1,0 +1,20 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="notif"
+    android:width="27dp"
+    android:height="31dp"
+    android:viewportWidth="27"
+    android:viewportHeight="31">
+    <group android:name="group_4">
+        <path
+            android:name="path_3"
+            android:pathData="M 21.513 16.885 L 21.513 13.185 C 21.509 11.529 20.987 9.916 20.02 8.571 C 19.054 7.226 17.691 6.217 16.123 5.685 C 16.019 5.076 15.703 4.523 15.231 4.124 C 14.759 3.725 14.161 3.507 13.543 3.507 C 12.925 3.507 12.327 3.725 11.855 4.124 C 11.383 4.523 11.067 5.076 10.963 5.685 C 9.395 6.217 8.032 7.226 7.066 8.571 C 6.099 9.916 5.577 11.529 5.573 13.185 L 5.573 16.885 L 4.503 16.885 L 4.503 20.198 L 22.58 20.198 L 22.58 16.885 Z"
+            android:fillColor="#f2f2f2"
+            android:strokeWidth="1"/>
+        <path
+            android:name="path_4"
+            android:pathData="M 9.633 22.196 C 9.633 23.232 10.045 24.226 10.777 24.959 C 11.51 25.691 12.504 26.103 13.54 26.103 C 14.576 26.103 15.57 25.691 16.303 24.959 C 17.035 24.226 17.447 23.232 17.447 22.196 L 17.447 22.149 L 9.633 22.149 Z"
+            android:fillColor="#f2f2f2"
+            android:strokeWidth="1"/>
+    </group>
+</vector>
